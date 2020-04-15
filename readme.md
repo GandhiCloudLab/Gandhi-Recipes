@@ -1,6 +1,28 @@
 # IBM Developer Recipes
 
 
+## Q2-2020
+
+### 11. Monitoring with Prometheus and Grafana in RedHat Openshift 4.3
+
+Recipe explains about ... 1. How to use default Grafana dashboard 2. How to install Prometheus and Grafana Operators 3. How to install Prometheus and Grafana Operators instances, service monitors and dashboards 4. How to import and view Custom dashboards
+
+https://developer.ibm.com/recipes/tutorials/monitoring-with-prometheus-and-grafana-in-redhat-openshift-4-3/
+
+Published on April 15, 2020
+
+
+
+### 10. Configuring Sysdig for Openshift Cluster Monitoring with IBM Cloud
+
+This recipe explains about how to configure Sysdig in Openshift for cluster Monitoring. SysDig instance is installed in IBM Cloud, Sysdig Agent is deployed in Openshift. Recipe shows different graphs available in Sysdig.
+
+https://developer.ibm.com/recipes/tutorials/configuring-sysdig-for-openshift-cluster-monitoring-with-ibm-cloud/
+
+Published on April 15, 2020 
+
+
+
 ## Q1-2020
 
 ### 9. Application Migration using Transformation Advisor and Tekton pipeline
