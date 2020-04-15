@@ -98,7 +98,6 @@ https://developer.ibm.com/recipes/tutorials/cloud-pak-for-applications-4-0-insta
 Published on January 8, 2020
 
 
-</details>
 
 ### 3. Deploy a Serverless Application using Knative in OpenShift 4.2 (CP4App 4.0)
 
@@ -110,6 +109,7 @@ https://developer.ibm.com/recipes/tutorials/deploy-a-serverless-application-usin
 Published on January 3, 2020
 
 
+</details>
 
 
 ## Q4-2019
