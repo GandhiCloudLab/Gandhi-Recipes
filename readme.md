@@ -108,7 +108,7 @@ Published on January 3, 2020
 
 
 ## Q4-2019
-
+<details><summary>CLICK ME</summary>
 
 ### 2. Deploying Serverless Application using Knative in OpenShift 3.11 (CP4A)
 
@@ -132,3 +132,5 @@ https://developer.ibm.com/recipes/tutorials/deploying-greetings-application-in-c
 
 
 Published on November 10, 2019
+</details>
+
