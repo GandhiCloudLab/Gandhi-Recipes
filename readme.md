@@ -3,6 +3,8 @@
 
 ## Q2-2020
 
+<details><summary>CLICK ME</summary>
+
 ### 11. Monitoring with Prometheus and Grafana in RedHat Openshift 4.3
 
 Recipe explains about ... 1. How to use default Grafana dashboard 2. How to install Prometheus and Grafana Operators 3. How to install Prometheus and Grafana Operators instances, service monitors and dashboards 4. How to import and view Custom dashboards
@@ -22,8 +24,11 @@ https://developer.ibm.com/recipes/tutorials/configuring-sysdig-for-openshift-clu
 Published on April 15, 2020 
 
 
+</details>
 
 ## Q1-2020
+
+<details><summary>CLICK ME</summary>
 
 ### 9. Application Migration using Transformation Advisor and Tekton pipeline
 
@@ -93,7 +98,7 @@ https://developer.ibm.com/recipes/tutorials/cloud-pak-for-applications-4-0-insta
 Published on January 8, 2020
 
 
-
+</details>
 
 ### 3. Deploy a Serverless Application using Knative in OpenShift 4.2 (CP4App 4.0)
 
