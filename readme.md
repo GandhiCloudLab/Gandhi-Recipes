@@ -5,6 +5,16 @@ IBM Developer Recipes created by Gandhi.
 
 <details><summary>CLICK ME</summary>
 
+### 12. Creating Private Catalog Tiles in IBM Cloud
+
+Recipe explains about ... 1. Create Private Catalog in IBM Cloud  2. Create Tiles in Private Catalog  3. View Tiles  4. Run tiles
+
+https://developer.ibm.com/recipes/tutorials/creating-private-catalog-tiles-in-ibm-cloud/
+
+Published on May 8, 2020
+
+
+
 ### 11. Monitoring with Prometheus and Grafana in RedHat Openshift 4.3
 
 Recipe explains about ... 1. How to use default Grafana dashboard 2. How to install Prometheus and Grafana Operators 3. How to install Prometheus and Grafana Operators instances, service monitors and dashboards 4. How to import and view Custom dashboards
