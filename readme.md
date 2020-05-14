@@ -5,6 +5,17 @@ IBM Developer Recipes created by Gandhi.
 
 <details><summary>CLICK ME</summary>
 
+
+### 13. DevSecOps using Aquasec Trivy
+
+Recipe explains about ...  1. How to integrate trivy in Jenkins   2. How to integrate trivy in Tekton
+
+https://developer.ibm.com/recipes/tutorials/devsecops-using-aquasec-trivy/
+
+Published on May 14, 2020
+
+
+
 ### 12. Creating Private Catalog Tiles in IBM Cloud
 
 Recipe explains about ... 1. Create Private Catalog in IBM Cloud  2. Create Tiles in Private Catalog  3. View Tiles  4. Run tiles
