@@ -1,9 +1,28 @@
 # IBM Developer Recipes
 IBM Developer Recipes created by Gandhi.
 
+## Q3-2020
+
+### 15. Part 1: Instrumenting Micro-Services and Monitoring through Golden Signals in Cloud Pak for Multi-Cloud Management
+
+This recipe explains about the following. Server prerequisite for Monitoring Installation of J2SE Runtime Data Collector instrumented UPro app Accessing the installed application Monitoring Golden Signals
+
+https://developer.ibm.com/recipes/tutorials/installing-runtime-data-collector-instrumented-app-and-monitoring-mcm-golden-signals/
+
+Published on July 7, 2020 
+
+
+--------------
 ## Q2-2020
 
-<details><summary>CLICK ME</summary>
+### 14. Implementing MCM Service Discovery in RHOCP 4.3 Clusters
+
+This recipe explains about the following. 1. Configuring DNS in Managed Cluster for Service Discovery 2. Installing a sample application 3. Required Kubernetes objects changes for Service Discovery
+
+https://developer.ibm.com/recipes/tutorials/implementing-mcm-service-discovery-in-rhocp-4-3-clusters/
+
+Published on June 21, 2020
+
 
 
 ### 13. DevSecOps using Aquasec Trivy
@@ -44,12 +63,9 @@ https://developer.ibm.com/recipes/tutorials/configuring-sysdig-for-openshift-clu
 
 Published on April 15, 2020 
 
-
-</details>
+--------------
 
 ## Q1-2020
-
-<details><summary>CLICK ME</summary>
 
 ### 9. Application Migration using Transformation Advisor and Tekton pipeline
 
@@ -130,8 +146,7 @@ https://developer.ibm.com/recipes/tutorials/deploy-a-serverless-application-usin
 Published on January 3, 2020
 
 
-</details>
-
+--------------
 
 ## Q4-2019
 <details><summary>CLICK ME</summary>
