@@ -3,6 +3,56 @@ IBM Developer Recipes created by Gandhi.
 
 ## Q3-2020
 
+### 20. MCM Monitoring Configuration Setup : use case - Web UI is becoming slow
+
+This recipe explains about the following. 1. Incident details - Web UI Responding Slow, 2. Configuring Threshold, 3. Configuring Runbook, 4. Configuring Event Policies, 5. Configuring Incident Policies
+
+https://developer.ibm.com/recipes/tutorials/mcm-monitoring-configuration-setup-use-case-web-ui-is-becoming-slow/
+
+Published on July 30, 2020
+
+
+
+### 19. MCM Monitoring Configuration Setup : use case - Notification messages are not received
+
+This recipe explains about the following. 1. Incident details - Notification messages are not received, 2. Configuring Threshold, 3. Configuring Runbook, 4. Configuring Event Policies, 5. Configuring Incident Policies
+
+https://developer.ibm.com/recipes/tutorials/mcm-monitoring-configuration-setup-use-case-notification-messages-are-not-received/
+
+Published on July 30, 2020
+
+
+
+### 18. MCM Monitoring : use case - Web UI is becoming slow
+
+This recipe explains about the following. 1. Use case - Web UI is becoming slow, 2. Incident Details related to the use case, 3. How SRE is anaylsing and fixing the incident
+
+https://developer.ibm.com/recipes/tutorials/mcm-monitoring-use-case-web-ui-is-becoming-slow/
+
+Published on July 29, 2020
+
+
+
+### 17. MCM Monitoring : use case - Notification messages are not received
+
+This recipe explains about the following. 1. Use case - Notification messages are not received, 2. Incident Details related to the use case, 3. How SRE is anaylsing and fixing the incident
+
+https://developer.ibm.com/recipes/tutorials/mcm-monitoring-use-case-notification-messages-are-not-received/
+
+Published on July 29, 2020
+
+
+
+### 16. MCM - App Management and Sample apps
+
+This recipe explains about the following. 1. MCM Application management capabilities, 2. MCM Application resources , 3. Sample apps for Channel types Namespace, Helm and Git
+
+https://developer.ibm.com/recipes/tutorials/mcm-app-management-and-sample-apps/
+
+Published on July 22, 2020
+
+
+
 ### 15. Part 1: Instrumenting Micro-Services and Monitoring through Golden Signals in Cloud Pak for Multi-Cloud Management
 
 This recipe explains about the following. Server prerequisite for Monitoring Installation of J2SE Runtime Data Collector instrumented UPro app Accessing the installed application Monitoring Golden Signals
