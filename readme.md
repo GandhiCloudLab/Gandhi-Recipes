@@ -1,6 +1,29 @@
 # IBM Developer Recipes
 IBM Developer Recipes created by Gandhi.
 
+
+## Q1-2021
+
+### 02. Training Log anomaly models for AI Manager in Watson AIOps
+
+This article explains about how to train normal logs from LogDNA and create log anomaly models for AI Manager in Watson AIOps.
+
+
+https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/10/training-log-anomaly-models-for-ai-manager
+
+Published on Feb 10, 2021
+
+
+### 01. Configuring AI-Manager in Watson AI-Ops
+
+This article explains about how to configure AI-Manager for training and inferencing the logs/events/incidents.
+
+
+https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/09/configuring-ai-manager-in-watson-ai-ops
+
+Published on Feb 10, 2021
+
+
 ## Q3-2020
 
 ### 20. MCM Monitoring Configuration Setup : use case - Web UI is becoming slow
