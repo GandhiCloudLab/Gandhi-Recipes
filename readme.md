@@ -4,6 +4,14 @@ IBM Developer Recipes created by Gandhi.
 
 ## Q1-2021
 
+### 03. Log Anomaly Detection by AI-Manager in Watson AI-Ops
+
+This article showcase the Log Anomaly detection capability of AI-Manager in Watson AI-Ops using LogDNA and BookInfo app.
+
+https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/14/log-anomaly-detection-by-ai-manager-in-w-ai-ops
+
+Published on Feb 15, 2021
+
 ### 02. Training Log anomaly models for AI Manager in Watson AIOps
 
 This article explains about how to train normal logs from LogDNA and create log anomaly models for AI Manager in Watson AIOps.
@@ -21,7 +29,7 @@ This article explains about how to configure AI-Manager for training and inferen
 
 https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/09/configuring-ai-manager-in-watson-ai-ops
 
-Published on Feb 10, 2021
+Published on Feb 9, 2021
 
 
 ## Q3-2020
