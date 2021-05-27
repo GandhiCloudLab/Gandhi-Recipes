@@ -1,8 +1,67 @@
 # IBM Developer Recipes
-IBM Developer Recipes created by Gandhi.
+IBM Developer Recipes and Community articles created by Gandhi.
 
+## Q2-2021
+
+### 17. AIOps v3.1 - Series 09 : BookInfo Demo Setup for AIOps
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-09-bookinfo-demo-setup-for-aiops
+
+### 16. AIOps v3.1 - Series 08 : Installing BookInfo app for AIOps
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-08-installing-bookinfo-app-for-ai
+
+### 15. AIOps v3.1 - Series 07 : Configuring Event Manager
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-07-configuring-event-manager
+
+### 14. AIOps v3.1 - Series 06 : Inferencing Log Anomaly, Event Grouping and Similar Incidents
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-06-inferencing-log-anomaly-event
+
+### 13. AIOps v3.1 - Series 05 : Training Logs, Events and Incidents
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-05-training-logs-events-and-incid
+
+### 12. AIOps v3.1 - Series 04 : Create Training Definition for Logs, Events and Incidents
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-04-create-training-definition-for
+
+### 11. AIOps v3.1 - Series 03 : Create Application using Kubernetes Observer
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-03-create-application-using-kuber
+
+### 10. AIOps v3.1 - Series 02 : Slack Account Creation and Integration
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-02-slack-account-creation-and-int
+
+### 09. AIOps v3.1 - Series 01 : Data and Tool Integrations
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-01-data-and-tool-integrations
 
 ## Q1-2021
+
+### 08. Using AI-Manager APIs in Watson AI-Ops
+
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/03/29/using-ai-manager-apis-in-watson-ai-ops
+
+Published on Mar 29, 2021
+
+### 07. Similar Incidents by AI-Manager in Watson AIOps
+https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/similar-incidents-by-ai-manager-in-watson-aiops
+
+Published on Feb 24, 2021
+
+### 07. Similar Incidents by AI-Manager in Watson AIOps
+https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/similar-incidents-by-ai-manager-in-watson-aiops
+
+Published on Feb 24, 2021
+
+### 06. Training Similar Incidents for AI Manager in Watson AIOps
+https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/training-similar-incidents-for-ai-manager-in-watso
+
+Published on Feb 24, 2021
+
+### 05. Event Grouping by AI-Manager in Watson AIOps
+https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/event-grouping-by-ai-manager-in-watson-aiops
+
+Published on Feb 24, 2021
+
+### 04. Training Events for AI-Manager in Watson AIOps
+https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/training-events-for-ai-manager-in-watson-aiops
+
+Published on Feb 24, 2021
 
 ### 03. Log Anomaly Detection by AI-Manager in Watson AI-Ops
 
