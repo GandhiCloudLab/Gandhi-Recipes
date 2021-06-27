@@ -3,6 +3,9 @@ IBM Developer Recipes and Community articles created by Gandhi.
 
 ## Q2-2021
 
+### 38. AIOps v3.1 - Series 10 : Create and Execute RunBook in Watson AIOps
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/06/27/aiops-v31-series-10-create-and-execute-runbook-in
+
 ### 37. AIOps v3.1 - Series 09 : BookInfo Demo Setup for AIOps
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-09-bookinfo-demo-setup-for-aiops
 
