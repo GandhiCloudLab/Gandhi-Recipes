@@ -1,6 +1,41 @@
 # IBM Developer Recipes
 IBM Developer Recipes and Community articles created by Gandhi.
 
+
+
+## Q3-2021
+
+### 48. ServiceNow and WAIOps : 3 - Configuring Watson AIOps roles to ServiceNow users
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/snow-waiops-3-configuring-waiops-roles-in-snow
+
+### 47. ServiceNow and WAIOps : 2 - Installing Watson AIOps App plugin in ServiceNow Developer Instance
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/snow-waiops-2-installing-waiops-app-plugin
+
+### 46. ServiceNow and WAIOps : 1 - Create ServiceNow incidents for Similar Incidents in Watson AIOps
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/snow-waiops-1-create-snow-incidents
+
+### 45.Instana and WAIOps Integration : 7 - Create Alert in Instana
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-7-create-alert-in-instana
+
+### 44.Instana and WAIOps Integration : 6 - Create Alert Channels in Instana
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-6-create-alert-channels-in-instana
+
+### 43.Instana and WAIOps Integration : 5 - Create Events in Instana
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-5-create-events-in-instana
+
+### 42.Instana and WAIOps Integration : 4 - Create Custom Payload in Instana
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-4-create-custom-payload-in-instana
+
+### 41.Instana and WAIOps Integration : 3 - Create Application in Instana
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-3-create-application-in-instana
+
+### 40.Instana and WAIOps Integration : 2 - Create Instana Webhook in Watson AIOps Event Manager NOI
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-2-create-instana-webhook-in-waiops
+
+### 39.Instana and WAIOps Integration : 1 - Integrating Instana with Watson AIOps
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-1-integrating-instana-with-watson-aiops
+
+
 ## Q2-2021
 
 ### 38. AIOps v3.1 - Series 10 : Create and Execute RunBook in Watson AIOps
