@@ -5,6 +5,21 @@ IBM Developer Recipes and Community articles created by Gandhi.
 
 ## Q3-2021
 
+### 53. WAIOps Demo with Instana and iLender App : 5 - Inferencing
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-5-inferencing
+
+### 52. WAIOps Demo with Instana and iLender App : 4 - App and AI Model Management and Training
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-4-app-aimodel-training
+
+### 51. WAIOps Demo with Instana and iLender App : 3 - Data and Tool Integrations
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-3-data-tool-integration
+
+### 50. WAIOps Demo with Instana and iLender App : 2 - Initial Configuration
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-2-initial-configuration
+
+### 49. WAIOps Demo with Instana and iLender App : 1 - Overview
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-1-overview
+
 ### 48. ServiceNow and WAIOps : 3 - Configuring Watson AIOps roles to ServiceNow users
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/snow-waiops-3-configuring-waiops-roles-in-snow
 
