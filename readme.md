@@ -1,6 +1,41 @@
-# IBM Developer Recipes
-IBM Developer Recipes and Community articles created by Gandhi.
+# Articles by Gandhi
 
+Recipes and Community articles created by Gandhi.
+
+## Q4-2021
+
+### 64. WAIOps v3.2 - Series 01 : Watson AIOps 3.2 Demo Setup
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-01-watson-aiops-32-demo-setup
+
+### 63. WAIOps v3.2 - Series 02 : Watson AIOps AI-Manager Installation
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-02-watson-aiops-ai-manager-insta
+
+### 62. WAIOps v3.2 - Series 03 : Installing iLender App
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-03-installing-ilender-app
+
+### 61. WAIOps v3.2 - Series 04 : Create Data and Tool Integrations
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-04-create-data-and-tool-integrat
+
+### 60. WAIOps v3.2 - Series 05 : Slack Account Creation and Integration
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-05-slack-account-creation-and-in
+
+### 59. WAIOps v3.2 - Series 06 : Create Application in AI-Manager
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-06-create-application-in-ai-mana
+
+### 58. WAIOps v3.2 - Series 07 : Create AI-Model Definition
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-07-create-ai-model-definition
+
+### 57. WAIOps v3.2 - Series 08 : Training
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-08-training
+
+### 56. WAIOps v3.2 - Series 09 : Inferencing
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-09-inferencing
+
+### 55. Installing Humio on RedHat Openshift
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/28/installing-humio-on-redhat-openshift
+
+### 54. Sending Instana Events to WAIOps 3.2.0 AIMgr
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/28/sending-instana-events-to-waiops-320-aimgr
 
 
 ## Q3-2021
