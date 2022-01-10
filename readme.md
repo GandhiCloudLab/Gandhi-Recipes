@@ -174,7 +174,12 @@ https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2
 Published on Feb 9, 2021
 
 
+-----------------------
+
+
 ## Q3-2020
+<details><summary>CLICK ME</summary>
+
 
 ### 20. MCM Monitoring Configuration Setup : use case - Web UI is becoming slow
 
@@ -234,9 +239,11 @@ https://developer.ibm.com/recipes/tutorials/installing-runtime-data-collector-in
 
 Published on July 7, 2020 
 
+</details>
 
---------------
 ## Q2-2020
+<details><summary>CLICK ME</summary>
+
 
 ### 14. Implementing MCM Service Discovery in RHOCP 4.3 Clusters
 
@@ -286,9 +293,11 @@ https://developer.ibm.com/recipes/tutorials/configuring-sysdig-for-openshift-clu
 
 Published on April 15, 2020 
 
---------------
+</details>
 
 ## Q1-2020
+<details><summary>CLICK ME</summary>
+
 
 ### 9. Application Migration using Transformation Advisor and Tekton pipeline
 
@@ -369,7 +378,8 @@ https://developer.ibm.com/recipes/tutorials/deploy-a-serverless-application-usin
 Published on January 3, 2020
 
 
---------------
+
+</details>
 
 ## Q4-2019
 <details><summary>CLICK ME</summary>
