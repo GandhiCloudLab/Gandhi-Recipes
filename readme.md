@@ -2,6 +2,10 @@
 
 Recipes and Community articles created by Gandhi.
 
+## 2021
+
+<details><summary>CLICK ME</summary>
+
 ### 44. WAIOps v3.2 - Series 01 : Watson AIOps 3.2 Demo Setup
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-01-watson-aiops-32-demo-setup
 
@@ -165,14 +169,13 @@ https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2
 Published on Feb 9, 2021
 
 
------------------------
 
 
-## Q3-2020
+## 2020
 <details><summary>CLICK ME</summary>
 
 
-### 20. MCM Monitoring Configuration Setup : use case - Web UI is becoming slow
+### 18. MCM Monitoring Configuration Setup : use case - Web UI is becoming slow
 
 This recipe explains about the following. 1. Incident details - Web UI Responding Slow, 2. Configuring Threshold, 3. Configuring Runbook, 4. Configuring Event Policies, 5. Configuring Incident Policies
 
@@ -182,7 +185,7 @@ Published on July 30, 2020
 
 
 
-### 19. MCM Monitoring Configuration Setup : use case - Notification messages are not received
+### 17. MCM Monitoring Configuration Setup : use case - Notification messages are not received
 
 This recipe explains about the following. 1. Incident details - Notification messages are not received, 2. Configuring Threshold, 3. Configuring Runbook, 4. Configuring Event Policies, 5. Configuring Incident Policies
 
@@ -192,7 +195,7 @@ Published on July 30, 2020
 
 
 
-### 18. MCM Monitoring : use case - Web UI is becoming slow
+### 16. MCM Monitoring : use case - Web UI is becoming slow
 
 This recipe explains about the following. 1. Use case - Web UI is becoming slow, 2. Incident Details related to the use case, 3. How SRE is anaylsing and fixing the incident
 
@@ -202,7 +205,7 @@ Published on July 29, 2020
 
 
 
-### 17. MCM Monitoring : use case - Notification messages are not received
+### 15. MCM Monitoring : use case - Notification messages are not received
 
 This recipe explains about the following. 1. Use case - Notification messages are not received, 2. Incident Details related to the use case, 3. How SRE is anaylsing and fixing the incident
 
@@ -212,7 +215,7 @@ Published on July 29, 2020
 
 
 
-### 16. MCM - App Management and Sample apps
+### 14. MCM - App Management and Sample apps
 
 This recipe explains about the following. 1. MCM Application management capabilities, 2. MCM Application resources , 3. Sample apps for Channel types Namespace, Helm and Git
 
@@ -222,7 +225,7 @@ Published on July 22, 2020
 
 
 
-### 15. Part 1: Instrumenting Micro-Services and Monitoring through Golden Signals in Cloud Pak for Multi-Cloud Management
+### 13. Part 1: Instrumenting Micro-Services and Monitoring through Golden Signals in Cloud Pak for Multi-Cloud Management
 
 This recipe explains about the following. Server prerequisite for Monitoring Installation of J2SE Runtime Data Collector instrumented UPro app Accessing the installed application Monitoring Golden Signals
 
@@ -232,11 +235,8 @@ Published on July 7, 2020
 
 </details>
 
-## Q2-2020
-<details><summary>CLICK ME</summary>
 
-
-### 14. Implementing MCM Service Discovery in RHOCP 4.3 Clusters
+### 12. Implementing MCM Service Discovery in RHOCP 4.3 Clusters
 
 This recipe explains about the following. 1. Configuring DNS in Managed Cluster for Service Discovery 2. Installing a sample application 3. Required Kubernetes objects changes for Service Discovery
 
@@ -246,7 +246,7 @@ Published on June 21, 2020
 
 
 
-### 13. DevSecOps using Aquasec Trivy
+### 11. DevSecOps using Aquasec Trivy
 
 Recipe explains about ...  1. How to integrate trivy in Jenkins   2. How to integrate trivy in Tekton
 
@@ -256,7 +256,7 @@ Published on May 14, 2020
 
 
 
-### 12. Creating Private Catalog Tiles in IBM Cloud
+### 10. Creating Private Catalog Tiles in IBM Cloud
 
 Recipe explains about ... 1. Create Private Catalog in IBM Cloud  2. Create Tiles in Private Catalog  3. View Tiles  4. Run tiles
 
@@ -266,7 +266,7 @@ Published on May 8, 2020
 
 
 
-### 11. Monitoring with Prometheus and Grafana in RedHat Openshift 4.3
+### 9. Monitoring with Prometheus and Grafana in RedHat Openshift 4.3
 
 Recipe explains about ... 1. How to use default Grafana dashboard 2. How to install Prometheus and Grafana Operators 3. How to install Prometheus and Grafana Operators instances, service monitors and dashboards 4. How to import and view Custom dashboards
 
@@ -276,7 +276,7 @@ Published on April 15, 2020
 
 
 
-### 10. Configuring Sysdig for Openshift Cluster Monitoring with IBM Cloud
+### 8. Configuring Sysdig for Openshift Cluster Monitoring with IBM Cloud
 
 This recipe explains about how to configure Sysdig in Openshift for cluster Monitoring. SysDig instance is installed in IBM Cloud, Sysdig Agent is deployed in Openshift. Recipe shows different graphs available in Sysdig.
 
@@ -286,11 +286,8 @@ Published on April 15, 2020
 
 </details>
 
-## Q1-2020
-<details><summary>CLICK ME</summary>
 
-
-### 9. Application Migration using Transformation Advisor and Tekton pipeline
+### 7. Application Migration using Transformation Advisor and Tekton pipeline
 
 Application Migration using Transformation Advisor and Tekton pipeline
 View Migration Complexity in TA Push Migration artifacts to GIT Repo from TA Configure a Webhook in Tekton Modify source code in GIT View Tekton pipeline running View application deployed in OC Access the application in browse
@@ -302,7 +299,7 @@ Published on March 5, 2020
 
 
 
-### 8. Tekton Pipeline for Transformation Advisor generated Liberty App
+### 6. Tekton Pipeline for Transformation Advisor generated Liberty App
 
 TA generates migration artifacts to deploy an app in Kubernetes. Using Tekton Pipeline, we build docker image and deploy app in Openshift. A resource called `Task` contains steps to do the same. Lets install the pipeline and understand its resources.
 
@@ -313,7 +310,7 @@ Published on March 5, 2020
 
 
 
-### 7. IBM Cloud Pak for Applications v4.0.1 Installation on RHOCP 4.2 or 4.3
+### 5. IBM Cloud Pak for Applications v4.0.1 Installation on RHOCP 4.2 or 4.3
 
 The detailed steps to install IBM Cloud Pak for applications v4.0.1 on top of RedHat Openshift Container Platform v4.2 or v4.3 cluster is described here.
 
@@ -324,7 +321,7 @@ Published on March 5, 2020
 
 
 
-### 6. A best Practice in Dockerizing Vue.js Application
+### 4. A best Practice in Dockerizing Vue.js Application
 
 This recipe explains a very important Best Practice in Dockerizing the Vue.js application. The same could be applicable for any Node.js applications as well.
 
@@ -335,7 +332,7 @@ Published on March 2, 2020
 
 
 
-### 5. Deploying Appsody app in Openshift using Tekton pipeline
+### 3. Deploying Appsody app in Openshift using Tekton pipeline
 
 The Objective of this recipe is to explain the following. Create a springboot application using Appsody Run the application locally using Appsody Create Tekton pipeline for the application from Kabanero Push the application to OCP through Tekton
 
@@ -347,7 +344,7 @@ Published on January 13, 2020
 
 
 
-### 4. Cloud Pak for Applications 4.0 Installation on OCP 4.2
+### 2. Cloud Pak for Applications 4.0 Installation on OCP 4.2
 
 This recipe explains the steps to install Cloud Pak for applications v4.0 on top of OCP 4.2 version. Most of the steps mentioned below to be done from your local system. Switch to infra node, when it is explicitly mentioned.
 
@@ -359,7 +356,7 @@ Published on January 8, 2020
 
 
 
-### 3. Deploy a Serverless Application using Knative in OpenShift 4.2 (CP4App 4.0)
+### 1. Deploy a Serverless Application using Knative in OpenShift 4.2 (CP4App 4.0)
 
 In this recipe we are going deploy an knative app in OCP 4.2 containing Cloud Pak for Application 4.0 Here we are going to focus more on "Virtual Service not ready" error while deploying knative app.
 
@@ -372,7 +369,7 @@ Published on January 3, 2020
 
 </details>
 
-## Q4-2019
+## 2019
 <details><summary>CLICK ME</summary>
 
 ### 2. Deploying Serverless Application using Knative in OpenShift 3.11 (CP4A)
