@@ -2,151 +2,142 @@
 
 Recipes and Community articles created by Gandhi.
 
-## Q4-2021
-
-### 64. WAIOps v3.2 - Series 01 : Watson AIOps 3.2 Demo Setup
+### 44. WAIOps v3.2 - Series 01 : Watson AIOps 3.2 Demo Setup
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-01-watson-aiops-32-demo-setup
 
-### 63. WAIOps v3.2 - Series 02 : Watson AIOps AI-Manager Installation
+### 43. WAIOps v3.2 - Series 02 : Watson AIOps AI-Manager Installation
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-02-watson-aiops-ai-manager-insta
 
-### 62. WAIOps v3.2 - Series 03 : Installing iLender App
+### 42. WAIOps v3.2 - Series 03 : Installing iLender App
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-03-installing-ilender-app
 
-### 61. WAIOps v3.2 - Series 04 : Create Data and Tool Integrations
+### 41. WAIOps v3.2 - Series 04 : Create Data and Tool Integrations
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-04-create-data-and-tool-integrat
 
-### 60. WAIOps v3.2 - Series 05 : Slack Account Creation and Integration
+### 40. WAIOps v3.2 - Series 05 : Slack Account Creation and Integration
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-05-slack-account-creation-and-in
 
-### 59. WAIOps v3.2 - Series 06 : Create Application in AI-Manager
+### 39. WAIOps v3.2 - Series 06 : Create Application in AI-Manager
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-06-create-application-in-ai-mana
 
-### 58. WAIOps v3.2 - Series 07 : Create AI-Model Definition
+### 38. WAIOps v3.2 - Series 07 : Create AI-Model Definition
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-07-create-ai-model-definition
 
-### 57. WAIOps v3.2 - Series 08 : Training
+### 37. WAIOps v3.2 - Series 08 : Training
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-08-training
 
-### 56. WAIOps v3.2 - Series 09 : Inferencing
+### 36. WAIOps v3.2 - Series 09 : Inferencing
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-09-inferencing
 
-### 55. Installing Humio on RedHat Openshift
+### 35. Installing Humio on RedHat Openshift
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/28/installing-humio-on-redhat-openshift
 
-### 54. Sending Instana Events to WAIOps 3.2.0 AIMgr
+### 34. Sending Instana Events to WAIOps 3.2.0 AIMgr
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/28/sending-instana-events-to-waiops-320-aimgr
 
-
-## Q3-2021
-
-### 53. WAIOps Demo with Instana and iLender App : 5 - Inferencing
+### 33. WAIOps Demo with Instana and iLender App : 5 - Inferencing
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-5-inferencing
 
-### 52. WAIOps Demo with Instana and iLender App : 4 - App and AI Model Management and Training
+### 32. WAIOps Demo with Instana and iLender App : 4 - App and AI Model Management and Training
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-4-app-aimodel-training
 
-### 51. WAIOps Demo with Instana and iLender App : 3 - Data and Tool Integrations
+### 31. WAIOps Demo with Instana and iLender App : 3 - Data and Tool Integrations
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-3-data-tool-integration
 
-### 50. WAIOps Demo with Instana and iLender App : 2 - Initial Configuration
+### 30. WAIOps Demo with Instana and iLender App : 2 - Initial Configuration
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-2-initial-configuration
 
-### 49. WAIOps Demo with Instana and iLender App : 1 - Overview
+### 29. WAIOps Demo with Instana and iLender App : 1 - Overview
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/21/waiops-ins-ilender-1-overview
 
-### 48. ServiceNow and WAIOps : 3 - Configuring Watson AIOps roles to ServiceNow users
+### 28. ServiceNow and WAIOps : 3 - Configuring Watson AIOps roles to ServiceNow users
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/snow-waiops-3-configuring-waiops-roles-in-snow
 
-### 47. ServiceNow and WAIOps : 2 - Installing Watson AIOps App plugin in ServiceNow Developer Instance
+### 27. ServiceNow and WAIOps : 2 - Installing Watson AIOps App plugin in ServiceNow Developer Instance
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/snow-waiops-2-installing-waiops-app-plugin
 
-### 46. ServiceNow and WAIOps : 1 - Create ServiceNow incidents for Similar Incidents in Watson AIOps
+### 26. ServiceNow and WAIOps : 1 - Create ServiceNow incidents for Similar Incidents in Watson AIOps
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/snow-waiops-1-create-snow-incidents
 
-### 45.Instana and WAIOps Integration : 7 - Create Alert in Instana
+### 25.Instana and WAIOps Integration : 7 - Create Alert in Instana
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-7-create-alert-in-instana
 
-### 44.Instana and WAIOps Integration : 6 - Create Alert Channels in Instana
+### 24.Instana and WAIOps Integration : 6 - Create Alert Channels in Instana
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-6-create-alert-channels-in-instana
 
-### 43.Instana and WAIOps Integration : 5 - Create Events in Instana
+### 23.Instana and WAIOps Integration : 5 - Create Events in Instana
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-5-create-events-in-instana
 
-### 42.Instana and WAIOps Integration : 4 - Create Custom Payload in Instana
+### 22.Instana and WAIOps Integration : 4 - Create Custom Payload in Instana
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-4-create-custom-payload-in-instana
 
-### 41.Instana and WAIOps Integration : 3 - Create Application in Instana
+### 21.Instana and WAIOps Integration : 3 - Create Application in Instana
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-3-create-application-in-instana
 
-### 40.Instana and WAIOps Integration : 2 - Create Instana Webhook in Watson AIOps Event Manager NOI
+### 20.Instana and WAIOps Integration : 2 - Create Instana Webhook in Watson AIOps Event Manager NOI
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-2-create-instana-webhook-in-waiops
 
-### 39.Instana and WAIOps Integration : 1 - Integrating Instana with Watson AIOps
+### 19.Instana and WAIOps Integration : 1 - Integrating Instana with Watson AIOps
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/09/08/ins-waiops-1-integrating-instana-with-watson-aiops
 
 
-## Q2-2021
-
-### 38. AIOps v3.1 - Series 10 : Create and Execute RunBook in Watson AIOps
+### 18. AIOps v3.1 - Series 10 : Create and Execute RunBook in Watson AIOps
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/06/27/aiops-v31-series-10-create-and-execute-runbook-in
 
-### 37. AIOps v3.1 - Series 09 : BookInfo Demo Setup for AIOps
+### 17. AIOps v3.1 - Series 09 : BookInfo Demo Setup for AIOps
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-09-bookinfo-demo-setup-for-aiops
 
-### 36. AIOps v3.1 - Series 08 : Installing BookInfo app for AIOps
+### 16. AIOps v3.1 - Series 08 : Installing BookInfo app for AIOps
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-08-installing-bookinfo-app-for-ai
 
-### 35. AIOps v3.1 - Series 07 : Configuring Event Manager
+### 15. AIOps v3.1 - Series 07 : Configuring Event Manager
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-07-configuring-event-manager
 
-### 34. AIOps v3.1 - Series 06 : Inferencing Log Anomaly, Event Grouping and Similar Incidents
+### 14. AIOps v3.1 - Series 06 : Inferencing Log Anomaly, Event Grouping and Similar Incidents
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-06-inferencing-log-anomaly-event
 
-### 33. AIOps v3.1 - Series 05 : Training Logs, Events and Incidents
+### 13. AIOps v3.1 - Series 05 : Training Logs, Events and Incidents
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-05-training-logs-events-and-incid
 
-### 32. AIOps v3.1 - Series 04 : Create Training Definition for Logs, Events and Incidents
+### 12. AIOps v3.1 - Series 04 : Create Training Definition for Logs, Events and Incidents
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-04-create-training-definition-for
 
-### 31. AIOps v3.1 - Series 03 : Create Application using Kubernetes Observer
+### 11. AIOps v3.1 - Series 03 : Create Application using Kubernetes Observer
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-03-create-application-using-kuber
 
-### 30. AIOps v3.1 - Series 02 : Slack Account Creation and Integration
+### 10. AIOps v3.1 - Series 02 : Slack Account Creation and Integration
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-02-slack-account-creation-and-int
 
-### 29. AIOps v3.1 - Series 01 : Data and Tool Integrations
+### 9. AIOps v3.1 - Series 01 : Data and Tool Integrations
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-01-data-and-tool-integrations
 
-## Q1-2021
-
-### 28. Using AI-Manager APIs in Watson AI-Ops
+### 8. Using AI-Manager APIs in Watson AI-Ops
 
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/03/29/using-ai-manager-apis-in-watson-ai-ops
 
 Published on Mar 29, 2021
 
-### 27. Similar Incidents by AI-Manager in Watson AIOps
+### 7. Similar Incidents by AI-Manager in Watson AIOps
 https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/similar-incidents-by-ai-manager-in-watson-aiops
 
 Published on Feb 24, 2021
 
-### 26. Training Similar Incidents for AI Manager in Watson AIOps
+### 6. Training Similar Incidents for AI Manager in Watson AIOps
 https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/training-similar-incidents-for-ai-manager-in-watso
 
 Published on Feb 24, 2021
 
-### 25. Event Grouping by AI-Manager in Watson AIOps
+### 5. Event Grouping by AI-Manager in Watson AIOps
 https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/event-grouping-by-ai-manager-in-watson-aiops
 
 Published on Feb 24, 2021
 
-### 24. Training Events for AI-Manager in Watson AIOps
+### 4. Training Events for AI-Manager in Watson AIOps
 https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2021/02/23/training-events-for-ai-manager-in-watson-aiops
 
 Published on Feb 24, 2021
 
-### 23. Log Anomaly Detection by AI-Manager in Watson AI-Ops
+### 3. Log Anomaly Detection by AI-Manager in Watson AI-Ops
 
 This article showcase the Log Anomaly detection capability of AI-Manager in Watson AI-Ops using LogDNA and BookInfo app.
 
@@ -154,7 +145,7 @@ https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2
 
 Published on Feb 15, 2021
 
-### 22. Training Log anomaly models for AI Manager in Watson AIOps
+### 2. Training Log anomaly models for AI Manager in Watson AIOps
 
 This article explains about how to train normal logs from LogDNA and create log anomaly models for AI Manager in Watson AIOps.
 
@@ -164,7 +155,7 @@ https://community.ibm.com/community/user/middleware/blogs/jeya-gandhi-rajan-m1/2
 Published on Feb 10, 2021
 
 
-### 21. Configuring AI-Manager in Watson AI-Ops
+### 1. Configuring AI-Manager in Watson AI-Ops
 
 This article explains about how to configure AI-Manager for training and inferencing the logs/events/incidents.
 
