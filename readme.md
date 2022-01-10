@@ -233,8 +233,6 @@ https://developer.ibm.com/recipes/tutorials/installing-runtime-data-collector-in
 
 Published on July 7, 2020 
 
-</details>
-
 
 ### 12. Implementing MCM Service Discovery in RHOCP 4.3 Clusters
 
@@ -283,8 +281,6 @@ This recipe explains about how to configure Sysdig in Openshift for cluster Moni
 https://developer.ibm.com/recipes/tutorials/configuring-sysdig-for-openshift-cluster-monitoring-with-ibm-cloud/
 
 Published on April 15, 2020 
-
-</details>
 
 
 ### 7. Application Migration using Transformation Advisor and Tekton pipeline
@@ -364,8 +360,6 @@ https://developer.ibm.com/recipes/tutorials/deploy-a-serverless-application-usin
 
 
 Published on January 3, 2020
-
-
 
 </details>
 
