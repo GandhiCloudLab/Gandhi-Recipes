@@ -2,6 +2,22 @@
 
 Recipes and Community articles created by Gandhi.
 
+
+## 2022
+
+<details><summary>CLICK ME</summary>
+
+### 3. AIOps v3.2 - Topology API Part 3 : Create, Link and Delete topology nodes using API
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/03/07/aiops-v32-topology-api-part-3-create-link-and-dele
+
+### 2. AIOps v3.2 - Topology API Part 2 : Create BookInfo App Topology using API
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/03/07/aiops-v32-topology-api-part-2-create-topology-for
+</details>
+
+### 1. AIOps v3.2 - Topology API Part 1 : Enabling Topology Manager API
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/03/07/aiops-v32-topology-api-part-1-enabling-topology-ma
+
+
 ## 2021
 
 <details><summary>CLICK ME</summary>
