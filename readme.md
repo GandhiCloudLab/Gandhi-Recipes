@@ -7,6 +7,46 @@ Recipes and Community articles created by Gandhi.
 
 <details><summary>CLICK ME</summary>
 
+
+### 16. WAIOps v3.3 - Part 13 : Inferencing - Resolve Incidents
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-13-inferencing-resolve-incidents
+
+### 15. WAIOps v3.3 - Part 12 : Inferencing - View Results
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-12-inferencing-view-results
+
+### 14. WAIOps v3.3 - Part 11 : Inferencing
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-11-inferencing
+
+### 13. WAIOps v3.3 - Part 10 : Training
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-10-training
+
+### 12. WAIOps v3.3 - Part 09 : Create Runbook
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-09-create-runbook
+
+### 11. WAIOps v3.3 - Part 08 : Create AI-Model Definition
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-08-create-ai-model-definition
+
+### 10. WAIOps v3.3 - Part 07 : Create Application in AI-Manager
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-07-create-application-in-ai-manage
+
+### 9. WAIOps v3.3 - Part 06 : Slack Account Creation and Integration
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-06-slack-account-creation-and-inte
+
+### 8. WAIOps v3.3 - Part 05 : Create Data and Tool Integrations
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-05-create-data-and-tool-integratio
+
+### 7. WAIOps v3.3 - Part 04 : Installing iLender App
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-04-installing-ilender-app
+
+### 6. WAIOps v3.3 - Part 03 : Installing Humio
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-03-installing-humio
+
+### 5. WAIOps v3.3 - Part 02 : Watson AIOps AI-Manager Installation
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-02-watson-aiops-ai-manager-install
+
+### 4. WAIOps v3.3 - Part 01 : Watson AIOps 3.3 Demo Setup
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-01-watson-aiops-33-demo-setup
+
 ### 3. AIOps v3.2 - Topology API Part 3 : Create, Link and Delete topology nodes using API
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/03/07/aiops-v32-topology-api-part-3-create-link-and-dele
 
