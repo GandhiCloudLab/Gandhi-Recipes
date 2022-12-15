@@ -7,6 +7,28 @@ Recipes and Community articles created by Gandhi.
 
 <details><summary>CLICK ME</summary>
 
+### 23. Watson AIOps 3.5 Temporal Group Training with SevOne Events
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/12/05/watson-aiops-35-temporal-group-training-with-sevon
+
+### 22. Creating IBM SevOne Topology in IBM Watson AIOps 3.5
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/12/05/creating-ibm-sevone-topology-in-ibm-watson-aiops-3
+
+### 21. Insights on Watson AIOps Topology Match Tokens
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/12/06/insights-on-watson-aiops-topology-match-tokens
+
+### 20. Insights on Watson AIOps Topology Merge Rules
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/12/06/insights-on-watson-aiops-topology-merge-rules
+
+### 19. IBM Watson AIOps 3.5 Integration with IBM SevOne
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/11/29/ibm-watson-aiops-35-integration-with-ibm-sevone
+
+### 18. Sending Events to Watson AIOps 3.5 using Generic Webhook Probe
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/11/29/sending-events-to-watson-aiops-35-using-generic-we
+
+### 17. Simple scripts to install Watson AIOps 3.5
+https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/11/29/simple-scripts-to-install-watson-aiops-35
+
+
 
 ### 16. WAIOps v3.3 - Part 13 : Inferencing - Resolve Incidents
 https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-13-inferencing-resolve-incidents
