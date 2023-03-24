@@ -3,6 +3,35 @@
 Recipes and Community articles created by Gandhi.
 
 
+## 2023
+
+### 2. Integrating Turbo with Envizi via AppConnect for Green IT data
+https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/03/23/integrating-turbo-with-envizi-via-appconnect
+
+### 1. Proactive Incident Resolution with Watson AIOps and SevOne demo. 
+https://techzone.ibm.com/collection/proactive-incident-resolution-with-cloud-pak-for-watson-aiops-and-sev-one
+
+#### Sub Blogs
+
+1.1. Demo Video
+https://ibm.box.com/s/75ufrq12czzg09wl32uiixjr02v713x5
+
+1.2. Demo Transcript
+https://github.com/ibm-ecosystem-lab/waiops-sevone-demo/tree/main/01-demo-transcript
+
+1.3. Configure SevOne to forward events to WAIOps SevOne Probe 
+https://github.com/ibm-ecosystem-lab/waiops-sevone-demo/tree/main/31-configuring-sevOne-events-to-aimanager
+
+1.4. SevOne Policy Creation
+https://github.com/ibm-ecosystem-lab/waiops-sevone-demo/tree/main/23-sevone-policy-creation
+
+1.5. SevOne Webhook Creation
+https://github.com/ibm-ecosystem-lab/waiops-sevone-demo/tree/main/22-sevone-webhook-creation
+
+1.6. Demo Setup - Proactive Incident Resolution with Watson AIOps and SevOne
+https://github.com/ibm-ecosystem-lab/waiops-sevone-demo/tree/main/02-demo-setup
+
+
 ## 2022
 
 <details><summary>CLICK ME</summary>
