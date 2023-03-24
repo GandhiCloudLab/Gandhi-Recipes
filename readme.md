@@ -12,22 +12,16 @@ https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2
 https://techzone.ibm.com/collection/proactive-incident-resolution-with-cloud-pak-for-watson-aiops-and-sev-one
 
 #### Sub Blogs
-
 - Demo Video
 https://ibm.box.com/s/75ufrq12czzg09wl32uiixjr02v713x5
-
 - Demo Transcript
 https://github.com/ibm-ecosystem-lab/waiops-sevone-demo/tree/main/01-demo-transcript
-
 - Configure SevOne to forward events to WAIOps SevOne Probe 
 https://github.com/ibm-ecosystem-lab/waiops-sevone-demo/tree/main/31-configuring-sevOne-events-to-aimanager
-
 - SevOne Policy Creation
 https://github.com/ibm-ecosystem-lab/waiops-sevone-demo/tree/main/23-sevone-policy-creation
-
 - SevOne Webhook Creation
 https://github.com/ibm-ecosystem-lab/waiops-sevone-demo/tree/main/22-sevone-webhook-creation
-
 - Demo Setup - Proactive Incident Resolution with Watson AIOps and SevOne
 https://github.com/ibm-ecosystem-lab/waiops-sevone-demo/tree/main/02-demo-setup
 
