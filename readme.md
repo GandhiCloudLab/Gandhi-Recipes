@@ -7,15 +7,15 @@ Recipes and Community articles created by Gandhi.
 
 ### 3. Create Org Hierarchy and load data in Envizi
 
-#### 3.1 Create Org Hierarchy and load data in Envizi via UI
+- 3.1 Create Org Hierarchy and load data in Envizi via UI
 https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/04/04/create-orghierarchy-and-load-data-in-envizi-via-ui
 
 ### 2. Achieve Green IT targets by integrating Turbo with Envizi
 
-#### 2.1 Integrating Turbo with Envizi via AppConnect for Green IT data
+- 2.1 Integrating Turbo with Envizi via AppConnect for Green IT data
 https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/03/23/integrating-turbo-with-envizi-via-appconnect
 
-#### 2.2 Turbonomic Performance Dashboard in Envizi
+- 2.2 Turbonomic Performance Dashboard in Envizi
 https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/04/01/turbonomic-performance-dashboard-in-envizi
 
 
