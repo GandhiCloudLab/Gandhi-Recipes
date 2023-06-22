@@ -5,6 +5,9 @@ Recipes and Community articles created by Gandhi.
 
 ## 2023
 
+### 4. Use APIs to expose Envizi data to external systems
+https://developer.ibm.com/articles/use-apis-to-expose-envizi-data-for-external-systems/ (edited)
+
 ### 3. Create Org Hierarchy and load data in Envizi
 
 - 3.1 Create Org Hierarchy and load data in Envizi via UI
