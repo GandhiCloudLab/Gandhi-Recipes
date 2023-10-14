@@ -5,7 +5,11 @@ Recipes and Community articles created by Gandhi.
 
 ## 2023
 
-### 4. Use APIs to expose Envizi data to external systems
+## 35. Envizi Dataflow - Sending UDC excel template to S3 for data ingestion
+
+https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/10/12/envizi-dataflow-sending-udc-excel-template-to-s3-f?CommunityKey=6853271a-0a5c-45f9-a9a2-0186706f68ec
+
+### 34. Use APIs to expose Envizi data to external systems
 https://developer.ibm.com/articles/use-apis-to-expose-envizi-data-for-external-systems/ (edited)
 
 ### 3. Create Org Hierarchy and load data in Envizi
