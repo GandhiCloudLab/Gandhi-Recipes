@@ -5,9 +5,23 @@ Recipes and Community articles created by Gandhi.
 
 ## 2023
 
+## 37. Envizi Integration Hub - Integrating Turbonomic with Envizi
+
+https://github.com/GandhiCloudLab/envizi-integration-hub-doc
+
+## 36. Envizi Learning Journey
+
+https://github.com/GandhiCloudLab/envizi-learning-journey-blog
+
 ## 35. Envizi Dataflow - Sending UDC excel template to S3 for data ingestion
 
+Dataflow automation for sending UDC Excel to AWS S3 bucket in Envizi
+
+https://developer.ibm.com/tutorials/awb-sending-udc-excel-to-s3/
+
 https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2023/10/12/envizi-dataflow-sending-udc-excel-template-to-s3-f?CommunityKey=6853271a-0a5c-45f9-a9a2-0186706f68ec
+
+https://github.com/GandhiCloudLab/envizi-dataflow-sending-udc-excel-to-s3-blog
 
 ### 34. Use APIs to expose Envizi data to external systems
 https://developer.ibm.com/articles/use-apis-to-expose-envizi-data-for-external-systems/ (edited)
