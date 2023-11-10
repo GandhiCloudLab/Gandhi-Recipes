@@ -5,23 +5,23 @@ Recipes and Community articles created by Gandhi.
 
 ## 2023
 
-## 9. Deploying Application in IBM Cloud Code Engine
+### 9. Deploying Application in IBM Cloud Code Engine
 
 https://github.com/GandhiCloudLab/ibm-code-engine-deploy-app
 
-## 8. IBM watsonx.ai Partner Onboarding
+### 8. IBM watsonx.ai Partner Onboarding
 
 https://github.com/GandhiCloudLab/watsonx-ai-partner-onboarding
 
-## 7. Envizi Integration Hub - Integrating Turbonomic with Envizi
+### 7. Envizi Integration Hub - Integrating Turbonomic with Envizi
 
 https://github.com/GandhiCloudLab/envizi-integration-hub-doc
 
-## 6. Envizi Learning Journey
+### 6. Envizi Learning Journey
 
 https://github.com/GandhiCloudLab/envizi-learning-journey-blog
 
-## 5. Envizi Dataflow - Sending UDC excel template to S3 for data ingestion
+### 5. Envizi Dataflow - Sending UDC excel template to S3 for data ingestion
 
 Dataflow automation for sending UDC Excel to AWS S3 bucket in Envizi
 
