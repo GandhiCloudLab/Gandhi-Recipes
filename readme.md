@@ -4,26 +4,11 @@ Recipes and Community articles created by Gandhi.
 
 
 ## 2023
+### 13. Dataflow automation for sending UDC Excel to AWS S3 bucket in Envizi
 
-### 9. Deploying Application in IBM Cloud Code Engine
+https://developer.ibm.com/tutorials/awb-sending-udc-excel-to-s3/
 
-https://github.com/GandhiCloudLab/ibm-code-engine-deploy-app
-
-### 8. IBM watsonx.ai Partner Onboarding
-
-https://github.com/GandhiCloudLab/watsonx-ai-partner-onboarding
-
-### 7. Envizi Integration Hub - Integrating Turbonomic with Envizi
-
-https://github.com/GandhiCloudLab/envizi-integration-hub-doc
-
-### 6. Envizi Learning Journey
-
-https://github.com/GandhiCloudLab/envizi-learning-journey-blog
-
-### 5. Envizi Dataflow - Sending UDC excel template to S3 for data ingestion
-
-Dataflow automation for sending UDC Excel to AWS S3 bucket in Envizi
+https://www.linkedin.com/feed/update/urn:li:activity:7133084911367847938/
 
 https://developer.ibm.com/tutorials/awb-sending-udc-excel-to-s3/
 
@@ -31,8 +16,53 @@ https://community.ibm.com/community/user/envirintel/blogs/jeya-gandhi-rajan-m1/2
 
 https://github.com/GandhiCloudLab/envizi-dataflow-sending-udc-excel-to-s3-blog
 
-### 4. Use APIs to expose Envizi data to external systems
-https://developer.ibm.com/articles/use-apis-to-expose-envizi-data-for-external-systems/ (edited)
+### 12. A deep dive into ESG data reporting with IBM Envizi
+
+https://developer.ibm.com/articles/awb-reporting-envizi/
+
+https://www.linkedin.com/feed/update/urn:li:activity:7140229105295278080/
+
+https://github.com/GandhiCloudLab/envizi-learning-journey-blog
+
+### 11. Integrate IBM Turbonomic data with IBM Envizi using Envizi Integration Hub
+
+https://developer.ibm.com/tutorials/awb-integrate-turbonomic-with-envizi/
+
+https://www.linkedin.com/feed/update/urn:li:activity:7143695380247904256/
+
+https://github.com/GandhiCloudLab/envizi-integration-hub-doc
+
+
+### 10. Emission factors management in IBM Envizi
+
+https://developer.ibm.com/articles/awb-emission-factors-management-in-ibm-envizi/
+
+https://www.linkedin.com/feed/update/urn:li:activity:7143604779271749632/
+
+### 9. ESG reporting framework with IBM Envizi
+
+https://developer.ibm.com/articles/awb-esg-reporting-frameworks-and-envizi/
+
+### 8. Scope 3 emissions data categorization with AI Assist in IBM Envizi
+
+https://developer.ibm.com/tutorials/awb-envizi-assist-scope3/
+
+### 7. Reports and dashboards in IBM Envizi
+https://developer.ibm.com/articles/awb-reports-and-dashboards-in-envizi/
+
+
+### 6. Use APIs to expose Envizi data to external systems
+https://developer.ibm.com/articles/use-apis-to-expose-envizi-data-for-external-systems
+
+
+### 5. Deploying Application in IBM Cloud Code Engine
+
+https://github.com/GandhiCloudLab/ibm-code-engine-deploy-app
+
+### 4. IBM watsonx.ai Partner Onboarding
+
+https://github.com/GandhiCloudLab/watsonx-ai-partner-onboarding
+
 
 ### 3. Create Org Hierarchy and load data in Envizi
 
