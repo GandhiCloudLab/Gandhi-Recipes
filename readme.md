@@ -2,6 +2,14 @@
 
 Recipes and Community articles created by Gandhi.
 
+## 2024
+### 2. Create custom PowerReports in Envizi
+https://developer.ibm.com/tutorials/awb-create-custom-power-reports-in-envizi/
+
+
+### 1. Create custom Envizi Power BI report for social and governance metrics
+https://developer.ibm.com/tutorials/awb-creating-custom-envizi-powerbi-report-social-metrics/
+
 
 ## 2023
 ### 13. Dataflow automation for sending UDC Excel to AWS S3 bucket in Envizi
