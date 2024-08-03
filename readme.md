@@ -10,9 +10,6 @@ IBM Developer, Recipes and Community articles created by Gandhi.
         <th>Links</th>
     </thead>
     <tr>
-        <td colspan=3><strong>Core Apps</strong></td>
-   </tr>  
-    <tr>
         <td>1</td>
         <td>Create custom PowerReports in Envizi</td>
         <td><a href="https://developer.ibm.com/tutorials/awb-create-custom-power-reports-in-envizi/">Link</a></td>
