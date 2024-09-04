@@ -13,8 +13,8 @@ IBM Developer, Recipes and Community articles created by Gandhi.
         <td>1</td>
         <td>Integrate your ESG Data into Envizi using Integration Hub</td>
         <td>
-            <a href="https://developer.ibm.com/tutorials/awb-envizi-integration-hub/">Tutorial</a>  
-            <a href="https://github.com/ibm-ecosystem-engineering/envizi-integration-hub-app/">Github Repo</a>  
+            <a href="https://developer.ibm.com/tutorials/awb-envizi-integration-hub/">Tutorial</a> <BR></BR> 
+            <a href="https://github.com/ibm-ecosystem-engineering/envizi-integration-hub-app/">Code</a>  
         </td>
    </tr>  
     <tr>
