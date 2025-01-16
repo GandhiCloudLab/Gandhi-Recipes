@@ -2,6 +2,22 @@
 
 IBM Developer, Recipes, Community articles and Github documentations created by Gandhi.
 
+## 2025
+<table>
+    <thead>
+        <th>S.No</th>
+        <th>Topics</th>
+        <th>Links</th>
+    </thead>
+    <tr>
+        <td>1</td>
+        <td>ESG forecasting with IBM Envizi and Planning Analytics</td>
+        <td>
+            <a href="https://developer.ibm.com/tutorials/awb-planning-analytics-addon-envizi/">Article</a>  &nbsp;&nbsp;
+        </td>
+   </tr>
+</table>
+
 ## 2024
 <table>
     <thead>
@@ -11,20 +27,28 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
     </thead>
     <tr>
         <td>1</td>
-        <td>Accessing IBM Granite LLM via Ollama</td>
+        <td>Envizi Data Export AddOn</td>
         <td>
-            <a href="https://github.com/GandhiCloudLab/accessing-ibm-granite-llm-via-ollama">Tutorial</a>&nbsp;&nbsp;
+            <a href="https://github.com/GandhiCloudLab/envizi-data-export/">Tutorial</a> 
         </td>
    </tr>
     <tr>
         <td>2</td>
+        <td>Accessing IBM Granite LLM via Ollama</td>
+        <td>
+            <a href="https://developer.ibm.com/tutorials/awb-accessing-llms-jupyter-notebook-ollama/">Tutorial</a>  &nbsp;&nbsp;
+            <a href="https://github.com/GandhiCloudLab/accessing-ibm-granite-llm-via-ollama">GitHub</a>&nbsp;&nbsp;
+        </td>
+   </tr>
+    <tr>
+        <td>3</td>
         <td>Using IBM Granite.Code in VS code </td>
         <td>
             <a href="https://github.com/GandhiCloudLab/ibm-granite-code-model/tree/main/01-using-granite-code-in-vscode">Tutorial</a>&nbsp;&nbsp;
         </td>
    </tr>  
     <tr>
-        <td>3</td>
+        <td>4</td>
         <td>Integrate your ESG Data into Envizi using Integration Hub</td>
         <td>
             <a href="https://developer.ibm.com/tutorials/awb-envizi-integration-hub/">Tutorial</a>&nbsp;&nbsp;
@@ -32,17 +56,17 @@ IBM Developer, Recipes, Community articles and Github documentations created by 
         </td>
    </tr>  
     <tr>
-        <td>4</td>
+        <td>5</td>
         <td>Create custom PowerReports in Envizi</td>
         <td><a href="https://developer.ibm.com/tutorials/awb-create-custom-power-reports-in-envizi/">Link</a></td>
    </tr>  
     <tr>
-        <td>5</td>
+        <td>6</td>
         <td>Create custom Envizi Power BI report for social and governance metrics</td>
         <td><a href="https://developer.ibm.com/tutorials/awb-creating-custom-envizi-powerbi-report-social-metrics/">Link</a></td>
    </tr>  
     <tr>
-        <td>6</td>
+        <td>7</td>
         <td>Envizi Workshop</td>
         <td><a href="https://github.com/ibm-ecosystem-engineering/envizi-workshop-2024">Link</a></td>
    </tr>     
